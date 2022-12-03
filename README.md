@@ -11,4 +11,4 @@
   - `Navbar` - It is the basic navbar above editor for providing features of Run Code and theme selection etc.
   
 ## Using CodeX-API
-- I have used CodeX-API(https://github.com/Jaagrav/CodeX-API) for compiling the codes.
+- I have used judgeO CE Rapid-API(https://rapidapi.com/judge0-official/I) for compiling the codes.
